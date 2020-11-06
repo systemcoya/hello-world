@@ -7,13 +7,3 @@ segundo cambio
 
 
 
-
-
-
-
-
-
-
-
-
-yara cuarto
